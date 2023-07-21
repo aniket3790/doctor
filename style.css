@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    background-image: url('./expressive-young-woman-posing-studio.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.help{
+    background-color: aqua;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.height{
+    height: 100vh;
+}
